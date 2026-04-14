@@ -102,7 +102,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Level Video Gerekçeleri</h3>
                     <p>
                         Hile yok ama fps hileleri kullanılabilir (acaba niye) 
                     </p>
