@@ -9,5 +9,11 @@
     "password": "006701",
     "demon": "Easy Demon",
     "records": [
+        {
+            "user": "CdukingGD",
+            "link": "https://www.youtube.com/watch?v=oqhmeG4AXEQ",
+            "percent": 100,
+            "hz": 344
+        }
     ]
 }
